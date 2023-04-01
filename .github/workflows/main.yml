@@ -1,6 +1,6 @@
 name: Start Django App
 
-on: [push, pull]
+on: [push, pull_request]
 
 jobs:
   Ultimatetest:
